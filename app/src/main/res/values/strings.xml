@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Udacity ShoeStore</string>
+
+    <string name="username">User Name</string>
+    <string name="userpass">Password </string>
+    <string name="btnlogin">Login</string>
+    <string name="btnreg">Register</string>
+    <!--    Add Shoe layout string-->
+    <string name="shoenamelable">Shoe Name</string>
+    <string name="shoesizelable">Shoe Size</string>
+    <string name="shoecompanylable">Shoe Company</string>
+    <string name="shoedescriptionlable">Description</string>
+    <string name="shoeimagelable">Shoe Image</string>
+    <string name="btnSaveShow">Save</string>
+    <string name="btncancelAdd">Cancel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instrutiontxt">
+        click the button below to navigate to our store shoelist
+        and from there you will find a button to add your own shoe
+        any shoe you add will be listed with our shoes
+        next you will be able to set a price for it
+        and soon we may publish it and let you sell your shoes
+        and of course you can buy any
+    </string>
+    <string name="welcometxt">
+        Hello everyone
+        this app created by Sameh Tohamy
+        it was my first project at udacity
+        thro nanodegree kotlin course
+        i am so happy to finish my first nanodegree project
+    </string>
+    <string name="go_to_shoe_list">Show Shoe List</string>
+    <string name="go_to_instruct">Go to Instruction</string>
+    <string name="istructions"><u>Instructions</u></string>
+    <string name="welcomtitle"><u>Welcome</u></string>
+    <string name="shoes_count">Shoes Count</string>
+    <string name="shoe_list">Shoe List</string>
+    <string name="logouttitle">Log Out</string>
+
+</resources>
